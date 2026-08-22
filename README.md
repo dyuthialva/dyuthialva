@@ -3,7 +3,7 @@
 </h1>
 
 <h3 align="center">
-  💻 Developer • 🧠 DSA Learner • 🤖 AI & Data Enthusiast • 🚀 Building Every Day
+  💻 Developer • 🤖 AI & Data Enthusiast • 🚀 Building Every Day
 </h3>
 
 <p align="center">
@@ -16,10 +16,6 @@
 
 * 💻 Passionate about programming and problem solving
 * 🧩 Strengthening my Data Structures & Algorithms skills
-* 🤖 Exploring Machine Learning and Data Analysis
-* 📊 Working with Pandas, NumPy and Plotly
-* 🌐 Exploring web development and REST APIs
-* 🚀 Currently learning the MERN Stack
 * 🔥 Building projects and pushing code consistently
 * 🌱 Always learning something new
 
@@ -39,15 +35,6 @@
   <b>Pandas • NumPy • Plotly • Statistical Analysis</b>
 </p>
 
-### 🌐 Web & Tools
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,figma" />
-</p>
-
-<p align="center">
-  <b>MERN Stack — Learning</b>
-</p>
 
 ### 🧠 Core Skills
 
@@ -108,28 +95,11 @@
 
 ---
 
-## 🎯 Current Focus
 
-```text
-🧠 Data Structures & Algorithms
-        ↓
-🐍 Python • C • C++
-        ↓
-📊 Data Analysis
-        ↓
-🌐 Web Development
-        ↓
-⚡ MERN Stack
-        ↓
-🚀 Building Real-World Projects
 ```
 
 ---
 
-<h3 align="center">
-  🚀 Keep Coding • Keep Building • Keep Growing
-</h3>
 
-<p align="center">
   <i>One commit at a time.</i>
 </p>
