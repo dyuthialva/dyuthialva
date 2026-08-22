@@ -2,14 +2,18 @@
   👋 Hey, I'm Dyuthi Alva
 </h1>
 
-<h3 align="center">
-  💻 Developer • 🤖 AI & Data Enthusiast • 🚀 Building Every Day
-</h3>
+<p align="center">
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=900&color=58A6FF&center=true&vCenter=true&width=850&lines=Developer+%7C+AI+%26+Data+Enthusiast;Building+with+code%2C+data%2C+and+AI.;Turning+ideas+into+real-world+projects.;Learning+%E2%86%92+Building+%E2%86%92+Improving."
+    alt="Developer introduction"
+  />
+</p>
 
 <p align="center">
   <i>Code. Learn. Build. Repeat.</i>
 </p>
 
+---
 ---
 
 ## 👨‍💻 About Me
