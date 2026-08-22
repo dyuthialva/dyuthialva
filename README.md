@@ -73,6 +73,3 @@
 
 ---
 
-<p align="center">
-  <i>One commit at a time.</i>
-</p>
