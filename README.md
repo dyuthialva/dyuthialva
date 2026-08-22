@@ -4,11 +4,8 @@
 
 <p align="center">
   <img
-    src="https://readme-typing-svg.demolab.com?<img
-  src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=900&color=58A6FF&center=true&vCenter=true&width=850&lines=Developing+%7C+Learning+%7C+Experimenting;Exploring+%7C+Creating+%7C+Growing"
-  alt="Developing, Learning, Experimenting"
-/>
-    alt="Developer introduction"
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=900&color=58A6FF&center=true&vCenter=true&width=850&lines=Developing+%7C+Learning+%7C+Experimenting;Exploring+%7C+Creating+%7C+Growing"
+    alt="Developing, Learning, Experimenting"
   />
 </p>
 
