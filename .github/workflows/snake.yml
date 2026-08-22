@@ -1,4 +1,4 @@
-name: Generate Contribution Snake
+name: Generate Snake
 
 on:
   schedule:
@@ -16,16 +16,16 @@ jobs:
       - name: Generate snake animation
         uses: Platane/snk/svg-only@v3
         with:
-          github_user_name: ${{ github.repository_owner }}
+          github_user_name: dyuthialva
           outputs: |
             dist/github-contribution-grid-snake.svg?palette=github
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
 
-      - name: Publish snake animation
+      - name: Push snake animation to output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
-          build_dir: dist
           target_branch: output
+          build_dir: dist
           commit_message: "Update contribution snake"
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
