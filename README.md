@@ -35,7 +35,6 @@
   <b>Pandas • NumPy • Plotly • Statistical Analysis</b>
 </p>
 
-
 ### 🧠 Core Skills
 
 <p align="center">
@@ -95,11 +94,6 @@
 
 ---
 
-
-```
-
----
-
-
+<p align="center">
   <i>One commit at a time.</i>
 </p>
