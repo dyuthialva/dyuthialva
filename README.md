@@ -6,6 +6,7 @@ I'm also strengthening my problem solving, logical thinking and Data Structures 
 Exploring, creating and learning something new every day.
 
 ---
+
 ## 🌐 Socials:
 
 <p align="left">
