@@ -1,8 +1,8 @@
 ## 🌀 About Me:
 
-I'm currently working on projects and experimenting with new ideas.
-I'm currently learning different technologies in Web Development and Data.
-I'm also strengthening my problem solving, logical thinking and Data Structures & Algorithms skills.
+I'm currently working on projects and experimenting with new ideas.<br>
+I'm currently learning different technologies in Web Development and Data.<br>
+I'm also strengthening my problem solving, logical thinking and Data Structures & Algorithms skills.<br>
 Exploring, creating and learning something new every day.
 
 ---
