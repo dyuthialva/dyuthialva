@@ -1,11 +1,8 @@
 ## 🌀 About Me:
 
 I'm currently working on projects and experimenting with new ideas.
-
 I'm currently learning different technologies in Web Development and Data.
-
 I'm also strengthening my problem solving, logical thinking and Data Structures & Algorithms skills.
-
 Exploring, creating and learning something new every day.
 
 ---
@@ -54,21 +51,14 @@ Exploring, creating and learning something new every day.
 
 ---
 
-## 📊 GitHub Stats:
+# 📊 GitHub Stats:
 
-<p align="center">
-  <img
-    src="https://github-readme-streak-stats.herokuapp.com/?user=dyuthialva&hide_border=true"
-    height="180"
-  />
-</p>
+![](https://github-readme-stats.vercel.app/api?username=dyuthialva&theme=dark&show_icons=true&hide_border=false&count_private=true)<br/>
 
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=dyuthialva&show_icons=true&hide_border=true&rank_icon=github"
-    height="180"
-  />
-</p>
+![](https://github-readme-streak-stats.herokuapp.com/?user=dyuthialva&theme=dark&hide_border=false)<br/>
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=dyuthialva&theme=dark&hide_border=false&layout=compact)
+
 
 ---
 
@@ -89,10 +79,4 @@ Exploring, creating and learning something new every day.
       alt="GitHub Contribution Snake"
     />
   </picture>
-</p>
-
----
-
-<p align="center">
-  <i>One commit at a time.</i>
 </p>
