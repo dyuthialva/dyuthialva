@@ -1,58 +1,76 @@
-<h1 align="center">
-   Hey, I'm Dyuthi Alva!
-</h1>
+## 🌀 About Me:
+
+I'm currently working on projects and experimenting with new ideas.
+
+I'm currently learning different technologies in Web Development and Data.
+
+I'm also strengthening my problem solving, logical thinking and Data Structures & Algorithms skills.
+
+Exploring, creating and learning something new every day.
+
+---
+
+## 🌐 Socials:
+
+<p align="left">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</p>
+
+---
+
+## 💻 Tech Stack:
+
+<p align="left">
+
+<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
+<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+
+<br>
+
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+<img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white" />
+
+<br>
+
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
+<img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+
+<br>
+
+<img src="https://img.shields.io/badge/MERN%20Stack-Learning-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+
+</p>
+
+---
+
+## 📊 GitHub Stats:
 
 <p align="center">
   <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=900&color=58A6FF&center=true&vCenter=true&width=850&lines=Developing+%7C+Learning+%7C+Experimenting;Exploring+%7C+Creating+%7C+Growing"
-    alt="Developing, Learning, Experimenting"
+    src="https://github-readme-streak-stats.herokuapp.com/?user=dyuthialva&hide_border=true"
+    height="180"
   />
 </p>
 
 <p align="center">
-  <i>Code. Learn. Build. Repeat.</i>
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=dyuthialva&show_icons=true&hide_border=true&rank_icon=github"
+    height="180"
+  />
 </p>
-
 
 ---
 
-##  About Me
-
-* 💻 Passionate about programming and problem solving
-* 🧩 Strengthening my Data Structures & Algorithms skills
-* 🔥 Building projects and pushing code consistently
-* 🌱 Always learning something new
-
----
-
-##  Tech Stack
-
-###  Programming Languages
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,c,cpp,html,css,js" />
-</p>
-
-###  Machine Learning & Data
-
-<p align="center">
-  <b>Pandas • NumPy • Plotly • Statistical Analysis</b>
-</p>
-
-###  Core Skills
-
-<p align="center">
-  <b>
-    Data Structures & Algorithms • Object-Oriented Programming (OOP)
-    <br>
-    REST API Development • Statistical Analysis
-  </b>
-</p>
-
-
----
-
-##  My Contributions
+## 🐍 Contribution Snake:
 
 <p align="center">
   <picture>
@@ -66,10 +84,13 @@
     />
     <img
       src="https://raw.githubusercontent.com/dyuthialva/dyuthialva/output/github-contribution-grid-snake.svg"
-      alt="GitHub contribution snake"
+      alt="GitHub Contribution Snake"
     />
   </picture>
 </p>
 
 ---
 
+<p align="center">
+  <i>One commit at a time.</i>
+</p>
