@@ -1,4 +1,4 @@
-## 🌀 About Me:
+## 💫 About Me:
 <ul>
 <li>I'm currently working on projects and experimenting with new ideas.<br></li>
 <li>I'm currently learning different technologies in Web Development and Data.<br></li>
