@@ -5,6 +5,7 @@
 <li>I'm also strengthening my problem solving, logical thinking and Data Structures & Algorithms skills.<br></li>
 <li>Exploring, creating and learning something new every day.</li>
 </ul>
+
 ---
 
 ## 🌐 Socials:
